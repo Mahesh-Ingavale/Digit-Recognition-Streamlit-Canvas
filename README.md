@@ -266,3 +266,4 @@ plt.imshow(X_test[0,:,:],cmap='gray')
 
 
 
+
